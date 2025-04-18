@@ -1,0 +1,1 @@
+Este repositório contém o código do artigo "Propriedades usando chave/valor" da página "Jacknpoe explica programação" em https://jacknpoeexplicaprogramacao.wordpress.com/2025/04/17/propriedades-usando-chave-valor/.
